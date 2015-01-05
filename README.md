@@ -1,11 +1,8 @@
-BinPack
-=======
-
-C++ classes for 2d binpacking
+BinPack: C++ classes for 2d binpacking
 =============================
 
 MIT Licence
-===========
+-----------
 
 Copyright (c) 2015 Marmontel Boris
 
